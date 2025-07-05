@@ -18,9 +18,9 @@
       <span>© 2024</span>
       <a href="https://bsgun.cn" 
          target="_blank"
-         class="font-bold text-green-600 hover:text-gray-600 transition-colors">梦爱吃鱼</a>
+         class="font-bold text-green-600 hover:text-gray-600 transition-colors">克喵爱吃卤面</a>
       <a v-if="icpNumber" 
-         href="https://beian.miit.gov.cn/" 
+         href="https://icp.gov.moe/?keyword=20250530" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">{{ icpNumber }}</a>
       <button class="text-pink-500 font-bold" @click="toggleTips">小提示</button>
